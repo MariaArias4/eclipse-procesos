@@ -25,12 +25,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.instituto.cliente"/>
 			<item value="com.miempresa.PlantillaTCP"/>
 		</list>
 		<list key="groupId">
+			<item value="com.instituto"/>
 			<item value="com.miempresa"/>
 		</list>
 		<list key="artifactId">
+			<item value="cliente"/>
 			<item value="PlantillaTCP"/>
 		</list>
 		<list key="projectNameTemplate">
